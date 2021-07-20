@@ -1,0 +1,103 @@
+body {
+  background-color: black;
+  background-image: radial-gradient(
+    rgba(0, 150, 0, 0.75), black 120%
+  );
+  min-width: 1200px;
+  max-width: 1200px;
+  padding: 2rem;
+  color: white;
+  font: 1.3rem Inconsolata, monospace;
+
+}
+.about {
+	margin: auto;
+}
+.about_title{
+	text-align: center;
+}
+.projects_title{
+	text-align: center;
+}
+.about_content{
+	width: 100%;
+	background-color: white;
+	border:solid;
+	border-color: black;
+}
+.about_text{
+	text-align: left;
+	float: left;
+	width: 80%;
+	color: black;
+	font: 1em arial, monospace;
+}
+.about_pic{
+	width: 20%;
+	border-radius: 100%;
+}
+.bar{
+	border: solid;
+}
+.share_buttons{
+	margin: auto;
+	text-align: center;
+	transform: scale(3);
+	width: 50%;
+}
+#twitter-widget-0{
+	vertical-align: middle;
+}
+.projects_content{
+	width: 100%;
+}
+.the_punisher{
+	border:solid;
+}
+.the_punisher_pic{
+	float: left;
+	width: 30%;
+}
+
+.the_punisher_text{
+	text-align: right;
+}
+a:visited{
+  color:inherit;
+}
+a {
+    text-decoration: none;
+}
+.lowkey{
+	border:solid;
+}
+.lowkey_pic{
+	float: right;
+	width: 17%;
+}
+.lowkey_text{
+	text-align: left;
+}
+.auctions{
+	border:solid;
+}
+.auctions_pic{
+	float: left;
+	width: 20%;
+}
+.auctions_text{
+	text-align: right;
+}
+.pomodoro{
+	border:solid;
+}
+.pomodoro_pic{
+	float: right;
+	width: 12%;
+}
+.pomodoro_text{
+	text-align: left;
+}
+.contact_title{
+	text-align: center;
+}
